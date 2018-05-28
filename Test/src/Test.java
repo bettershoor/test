@@ -12,7 +12,7 @@ public class Test {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("输入包括t+1行");
+		System.out.println("输入包括t+1行!!!");
 		List<Integer> q = new ArrayList<Integer>();
 		
 		Scanner scanner = new Scanner(System.in);
